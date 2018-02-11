@@ -1,0 +1,9 @@
+-*-   XTG  *  (c) gazlan, 2013   -*-
+
+XLAT Table Generator
+
+Usage: xtg.com description.txt
+
+Descr: XX: C [One record per line]
+
+complains_n_suggestions direct to gazlan@yandex.ru
